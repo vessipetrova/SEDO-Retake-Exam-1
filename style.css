@@ -29,3 +29,10 @@ body {
   background: #ddd;
   border: 1px solid #aaa;
 }
+
+#reset-btn {
+  padding: 0.5em 1em;
+  margin-left: 0.5em;
+  cursor: pointer;
+  background-color: #ffcccc;
+}
